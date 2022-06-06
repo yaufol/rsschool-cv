@@ -78,7 +78,7 @@ As these projects are personal, they're not available publicly so I cannot provi
 **C1.** Currently I work in an international team facing english on a daily basis.
 
 ## French
-**A1.** 
+**A2.** 
 
 ## Russian
 **Native** 
