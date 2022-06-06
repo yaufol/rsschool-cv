@@ -61,6 +61,7 @@ createTask() {
 Udemy course
 
 **Responsive Web Design 2018**
+
 FreeCodeCamp course
 
 **Moscow Aviation Institute (National Research University) 2015**
